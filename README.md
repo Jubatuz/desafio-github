@@ -1,4 +1,3 @@
-# desafio-github
 # DESAFIO GIT & GITHUB
 
 *Texto em italico*
