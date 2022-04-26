@@ -1,7 +1,7 @@
 # desafio-github
 # DESAFIO GIT & GITHUB
 
-__Texto em negrito__
+*Texto em negrito*
 
 # **Rotina todos os dias**
 
